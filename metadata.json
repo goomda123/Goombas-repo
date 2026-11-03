@@ -1,0 +1,6 @@
+{
+  "name": "Joe's Rocket Lab",
+  "description": "Calculates rocket propulsion thrust from burrito consumption and internal pressure with full flight simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
